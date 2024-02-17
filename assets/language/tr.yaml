@@ -1,0 +1,30 @@
+app:
+  name: Favori Kitaplarım
+home:
+  search: Arama
+  search_error: Aratılan kelime geçersiz
+network_failure: 
+    not_implemented: Not Implemented
+    request_cancelled: İstek İptal Edildi
+    internal_server_error: Dahili Sunucu Hatası
+    service_unavailable: Servis kullanılamıyor
+    method_not_allowed: Yönteme izin verilmiyor
+    bad_request: Kötü istek
+    unexpected_error_occurred: Beklenmeyen hata oluştu
+    connection_request_timeout: Bağlantı isteği zaman aşımına uğradı
+    no_internet_connection: İnternet bağlantısı yok
+    conflict: Bir çakışma nedeniyle hata
+    send_timeout: API sunucusu ile bağlantıda zaman aşımı
+    unable_to_process: Veriler işlenemiyor
+    incorrect_format: Yanlış format
+    not_acceptable: Kabul edilemeyen 
+    invalid_status_code: Geçersiz durum kodu 
+    unauthorized: Yetkisiz kullanıcı
+book_card:
+  authors: Yazarlar 
+  publisher: Yayınevi 
+  published_time: Yayınlanma Tarihi
+  pages: Sayfa Sayısı 
+  subtitle: Açıklaması
+  unknown: Bilinmiyor
+
