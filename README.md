@@ -1,16 +1,8 @@
 # favorite_books
 
-A new Flutter project.
+![Screenshot_1708268614](https://github.com/gokssu/favorite_books/assets/26454080/4f4c3a7a-947d-45f7-896d-ab15c6b91471)
 
-## Getting Started
+![Screenshot_1708268609](https://github.com/gokssu/favorite_books/assets/26454080/be4b5ff0-e53e-4a87-8308-a729b0edab80)
 
-This project is a starting point for a Flutter application.
+![Screenshot_1708268623](https://github.com/gokssu/favorite_books/assets/26454080/f82e2d97-1bbc-4dfb-b96f-5305890cda80)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
