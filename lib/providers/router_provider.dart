@@ -10,7 +10,6 @@ class Routes {
   static const initial = '/';
   static const main = '/main';
   static const favorites = '/favorites';
-  static const detail = '/detail';
 
   static String build(String route, List<String> params) => [route, ...params].join('/');
 }

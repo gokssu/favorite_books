@@ -8,8 +8,3 @@ final favoritesRepositoryProvider = Provider<FavoriteRepository>((ref) => Favori
 final favoritesNotifierProvider = StateNotifierProvider<FavoritesNotifier, FavoriteState>((ref) => FavoritesNotifier(
       repository: ref.watch(favoritesRepositoryProvider),
     ));
-
-final isFavProvider = FutureProvider.autoDispose.family<bool, String>((ref, id) async {
-  final favRepository = ref.watch(favoritesRepositoryProvider);
-  return favRepository.isFav(id);
-});

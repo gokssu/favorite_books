@@ -37,7 +37,7 @@ class AppBarNav extends StatelessWidget implements PreferredSizeWidget {
                       color: Theme.of(context).colorScheme.onPrimary,
                     ),
                     onPressed: () {
-                      context.push(Routes.favorites);
+                      context.pushReplacement(Routes.favorites);
                     },
                   ),
                 )

@@ -117,7 +117,7 @@ class HomeScreen extends HookConsumerWidget {
                       child: CircularProgressIndicator(),
                     ),
                 error: (e) {
-                  return Text(e);
+                  return Text(e.tr());
                 }))
       ]),
     );
